@@ -2,7 +2,7 @@
 
 This repository accompanies [*Date on Database*](http://www.apress.com/9781430243083) by Christopher Date (Apress, 2012).
 
-![Cover image](9781430243083.jpg)
+[comment]: #cover
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
